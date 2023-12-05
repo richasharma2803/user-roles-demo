@@ -1,0 +1,17 @@
+{
+    "apiEndpoint" : "http://127.0.0.1:8000/api/",
+    "encryptionKey" : "mC2KMXTycuTGCa7S8RvcPM53KH5h5MKdtYlg2TKg01U=",
+    "userPermissions": ["create role", "edit role", "update role", "delete role", "create user", "edit user", "update user", "delete user", "show user", "assign role permission", "manage roles", "manage users"],
+    "createRole": "create role",
+    "editRole": "edit role",
+    "updateRole": "update role",
+    "roleDelete": "delete role",
+    "createUser": "create user",
+    "editUser": "edit role",
+    "updateUser": "update user",
+    "userDelete": "delete user",
+    "showUser": "show user",
+    "assignRolePermission": "assign role permission",
+    "manageUsers" : "manage users",
+    "manageRoles": "manage roles"
+}
